@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on some existing projects.<br>🌱 I’m currently learning backend development.<br>
+👯 I’m looking to collaborate on some existing projects.
 
 
 ## 🌐 Socials:
